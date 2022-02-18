@@ -1,0 +1,13 @@
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.csproj.AssemblyReference.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.Properties.Resources.resources
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.csproj.GenerateResource.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.csproj.CoreCompileInputs.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.MainForm.resources
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Debug\FTPLinker.exe
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Debug\FTPLinker.pdb
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.exe
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.pdb
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Debug\FTPLinker.exe.config
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Debug\FTPLinker.csproj.ResolveComReference.cache

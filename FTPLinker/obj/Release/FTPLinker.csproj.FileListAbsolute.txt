@@ -1,0 +1,10 @@
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Release\FTPLinker.exe.config
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Release\FTPLinker.exe
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\bin\Release\FTPLinker.pdb
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.csproj.AssemblyReference.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.MainForm.resources
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.Properties.Resources.resources
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.csproj.GenerateResource.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.csproj.CoreCompileInputs.cache
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.exe
+C:\Users\Amiral\source\repos\FTPLinker\FTPLinker\obj\Release\FTPLinker.pdb
