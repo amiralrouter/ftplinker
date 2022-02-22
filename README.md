@@ -1,4 +1,7 @@
 
+# FTP Linker
+An intermediary software to quickly connect to ftp by an authorizer or reminder application tool
+
 # Installation
 
 Download the application. Run the application you downloaded and click the Install button in the upper right corner. My application will be opened as an administrator again. Install the application by pressing the Install button again.
@@ -38,36 +41,38 @@ As Link:
 # Informations
 
 ## CLIENT
+> WINSCP, FILEZILLA, EXPLORER, VSCODE
 - [WinSCP](https://winscp.net/eng/download.php)
 - [FileZilla Client](https://filezilla-project.org/download.php?platform=win64) 
 - Explorer (Windows file explorer)
 - [Visual Studio Code](https://code.visualstudio.com/download) 
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
 
 ## PROTOCOL
+> FTP, SFTP
 - FTP
-- SFTP  (Secure FTP)
-Required
+- SFTP  (Secure FTP)  
+***Required***
 
 ## DOMAIN
-Markdown is a lightweight markup language. Required.
+*Domain or nick name. **Required***
 
 ## USER
-Username of the FTP server. Required.
+*Username of the FTP server. **Required***
 
 ## PASS 
-Password of the FTP server. Required.
+*Password of the FTP server. **Required***
 
 ## HOST 
-Hostname of the FTP server. Domain or IP address. Required.
+*Hostname of the FTP server. Domain or IP address. **Required***
 
 ## PORT
-Port of the FTP server. Required.
+> default 21 (FTP), 22 (SFTP)
+
+*Port of the FTP server. **Required***
 
 ## PATH
-Path of the FTP server. It's not required. 
+*Path of the FTP server. It's not **Required***
 
 
 # How is it working?
